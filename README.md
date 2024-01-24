@@ -11,5 +11,5 @@ python3 finance_calculators.py investment
 ```
 1. Enter investment or bond to continue (Description of each printed above).
 2. Fill out prompt information to get. 
-3. Calculations answers will be returned.
+3. Calculation answers will be returned.
 ```
